@@ -5,7 +5,7 @@ I'm a tech enthusiast on a journey of continuous learning and exploration of new
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, SQL, Kotlin
-- **Tools:** Git, VS Code, Jupyter
+- **Tools:** Git, VS Code, Jupyter, Power BI
 - **Learning:** Android Development with Kotlin
 
 ## 🚀 What I'm Up To
