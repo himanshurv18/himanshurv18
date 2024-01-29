@@ -22,6 +22,6 @@ If you share an interest in coding, tech discussions, or want to exchange book r
 
 - [LinkedIn](https://www.linkedin.com/in/himanshu-rawat-184791220)
 - [Twitter](@Himanshurv3301)
-- [Portfolio]
+- [Youtube](https://www.youtube.com/channel/UCa654igwetUTboPq1bXiQEQ)
 
 Let's code, learn, and innovate together! 🚀
